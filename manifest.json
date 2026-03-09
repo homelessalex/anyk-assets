@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "content_version": "20260309T164807Z-bb8e669651cc",
-  "generated_at": "2026-03-09T16:48:07Z",
+  "content_version": "20260309T180101Z-f022aa0d285b",
+  "generated_at": "2026-03-09T18:01:01Z",
   "distribution": {
     "transport": "git+https",
     "thumbnails": "local-only"
@@ -13,28 +13,12 @@
   "assets": {
     "styles": [
       {
-        "id": "style.moderate-green",
-        "name": "Moderate green",
-        "path": "styles/Moderate green.json",
-        "sha256": "5c9d75b786530efbfb081dfb12bbb0d39d2058218fb4f6fffd8e2e081673bcc5",
-        "size": 18052,
-        "updated_at": "2026-03-01T08:57:25Z"
-      },
-      {
         "id": "style.portra-like",
         "name": "Portra like",
         "path": "styles/Portra like.json",
         "sha256": "b5a2607fdd5d31804203a9d8476c0dc1b349ce29fd6d6a0a35f08f8cfb4c74fc",
         "size": 21882,
         "updated_at": "2026-03-02T19:38:03Z"
-      },
-      {
-        "id": "style.test",
-        "name": "Test",
-        "path": "styles/Test.json",
-        "sha256": "37af99c7c13716f73edd78d3ea5c5bfa552464eb4f3385f845b89bc49d0d0b9f",
-        "size": 17781,
-        "updated_at": "2026-03-01T08:57:20Z"
       }
     ],
     "profiles": [
