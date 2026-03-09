@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "content_version": "20260309T164727Z-bb8e669651cc",
+  "generated_at": "2026-03-09T16:47:27Z",
+  "distribution": {
+    "transport": "git+https",
+    "thumbnails": "local-only"
+  },
+  "publisher": {
+    "tool": "PureRaw",
+    "workflow": "git-assets"
+  },
+  "assets": {
+    "styles": [
+      {
+        "id": "style.moderate-green",
+        "name": "Moderate green",
+        "path": "styles/Moderate green.json",
+        "sha256": "5c9d75b786530efbfb081dfb12bbb0d39d2058218fb4f6fffd8e2e081673bcc5",
+        "size": 18052,
+        "updated_at": "2026-03-01T08:57:25Z"
+      },
+      {
+        "id": "style.portra-like",
+        "name": "Portra like",
+        "path": "styles/Portra like.json",
+        "sha256": "b5a2607fdd5d31804203a9d8476c0dc1b349ce29fd6d6a0a35f08f8cfb4c74fc",
+        "size": 21882,
+        "updated_at": "2026-03-02T19:38:03Z"
+      },
+      {
+        "id": "style.test",
+        "name": "Test",
+        "path": "styles/Test.json",
+        "sha256": "37af99c7c13716f73edd78d3ea5c5bfa552464eb4f3385f845b89bc49d0d0b9f",
+        "size": 17781,
+        "updated_at": "2026-03-01T08:57:20Z"
+      }
+    ],
+    "profiles": [
+      {
+        "id": "profile.apple-iphone-13-mini-ultra-wide",
+        "name": "APPLE IPHONE 13 MINI Ultra Wide",
+        "camera": "APPLE IPHONE 13 MINI",
+        "path": "profiles/APPLE IPHONE 13 MINI Ultra Wide--686d4241.json",
+        "sha256": "b930e69a4e2df74e82cbef22cfe8012b957ac2074489468b9d022228b3dfa119",
+        "size": 4622,
+        "updated_at": "2026-03-09T16:05:50Z"
+      },
+      {
+        "id": "profile.apple-iphone-13-mini-wide",
+        "name": "APPLE IPHONE 13 MINI Wide",
+        "camera": "APPLE IPHONE 13 MINI",
+        "path": "profiles/APPLE IPHONE 13 MINI Wide--da0f3782.json",
+        "sha256": "9a24d98098f76961acd7ecefc7d3131f1a48c2a744cd37c4ffbd3c61afa806db",
+        "size": 4618,
+        "updated_at": "2026-03-09T16:05:50Z"
+      },
+      {
+        "id": "profile.apple-iphone-13-mini",
+        "name": "APPLE IPHONE 13 MINI",
+        "camera": "APPLE IPHONE 13 MINI",
+        "path": "profiles/APPLE IPHONE 13 MINI--51e21798.json",
+        "sha256": "13e15843bd4a67ef4cf9bd4fc096f5e1fd6ab3143426eebc25872f58b35b655b",
+        "size": 2380,
+        "updated_at": "2026-03-09T16:05:50Z"
+      },
+      {
+        "id": "profile.canon-eos-r6m2",
+        "name": "CANON EOS R6M2",
+        "camera": "CANON EOS R6M2",
+        "path": "profiles/CANON EOS R6M2--b93edb62.json",
+        "sha256": "312233c9663381b3eb9c6c12a61a488aabb7d954e94ffd3a74bf5b1a682b85c4",
+        "size": 4589,
+        "updated_at": "2026-03-09T16:05:50Z"
+      },
+      {
+        "id": "profile.fujifilm-x-t3",
+        "name": "FUJIFILM X-T3",
+        "camera": "FUJIFILM X-T3",
+        "path": "profiles/FUJIFILM X-T3--b57ed6f4.json",
+        "sha256": "2709ca93967e1de826915ed922be135ae89934ff4a8b319019f82ca4fac14b09",
+        "size": 4571,
+        "updated_at": "2026-03-09T16:05:50Z"
+      },
+      {
+        "id": "profile.nikon-z-6",
+        "name": "NIKON Z 6",
+        "camera": "NIKON Z 6",
+        "path": "profiles/NIKON Z 6--aae6e6aa.json",
+        "sha256": "339895f3224fa326a3270db92f833fdd3d80aee1d113237b372545048bb2033b",
+        "size": 4569,
+        "updated_at": "2026-03-09T16:05:50Z"
+      },
+      {
+        "id": "profile.sigma-fp",
+        "name": "SIGMA FP",
+        "camera": "SIGMA FP",
+        "path": "profiles/SIGMA FP--50b610ea.json",
+        "sha256": "cd2a1e41d67195e677982c93fb716c51553fc282b4fcbd9ad7d065a76b9981f7",
+        "size": 4603,
+        "updated_at": "2026-03-09T16:05:50Z"
+      },
+      {
+        "id": "profile.sony-ilce-7m3",
+        "name": "SONY ILCE-7M3",
+        "camera": "SONY ILCE-7M3",
+        "path": "profiles/SONY ILCE-7M3--50cfa3a6.json",
+        "sha256": "3bec51d57054470e7993d16b902a55cc624a9b012b5b261c8fcc812631908baf",
+        "size": 4613,
+        "updated_at": "2026-03-09T16:05:50Z"
+      }
+    ],
+    "profile_defaults": {
+      "path": "profiles/profile_defaults.json",
+      "sha256": "43efd38b51625128136683c296861e2c7aff8e860f9c63edfb6f855e3d01ce03",
+      "size": 254,
+      "updated_at": "2026-03-09T16:05:50Z"
+    }
+  }
+}
